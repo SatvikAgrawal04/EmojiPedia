@@ -34,6 +34,13 @@ const emojipedia = [
 		meaning:
 			"Smile, even in difficult times. Instead of being really happy, you smile despite the pain. The real feelings are hidden behind a smile. Someone is going through difficult times or has a lot of problems.",
 	},
+	{
+		id: 6,
+		emoji: "😶",
+		name: "Face Without Mouth",
+		meaning:
+			"Emoji without a mouth. Is speechless, has no words. Someone does not want to or cannot say anything about a specific topic. Used in difficult, embarrassing or bad conversations. Imagine what it would say if it had a mouth!",
+	},
 ];
 
 export default emojipedia;
