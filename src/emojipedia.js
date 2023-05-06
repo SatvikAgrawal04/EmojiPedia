@@ -48,6 +48,13 @@ const emojipedia = [
 		meaning:
 			"A yellow face sticking out its tongue and making a zany wink, usually shown with its right eye closed and left wide open. Often conveys a sense of fun, excitement, wackiness, buffoonery, or joking.",
 	},
+	{
+		id: 8,
+		emoji: "👀",
+		name: "Eyes",
+		meaning:
+			"A pair of eyes, glancing slightly to the left on most platforms. The Google version of this emoji previously showed only a single eye, despite the name of this character being eyes (plural).",
+	},
 ];
 
 export default emojipedia;
