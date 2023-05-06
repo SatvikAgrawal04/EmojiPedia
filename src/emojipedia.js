@@ -41,6 +41,13 @@ const emojipedia = [
 		meaning:
 			"Emoji without a mouth. Is speechless, has no words. Someone does not want to or cannot say anything about a specific topic. Used in difficult, embarrassing or bad conversations. Imagine what it would say if it had a mouth!",
 	},
+	{
+		id: 7,
+		emoji: "😜",
+		name: "Winking Face with Tongue",
+		meaning:
+			"A yellow face sticking out its tongue and making a zany wink, usually shown with its right eye closed and left wide open. Often conveys a sense of fun, excitement, wackiness, buffoonery, or joking.",
+	},
 ];
 
 export default emojipedia;
