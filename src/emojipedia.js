@@ -55,6 +55,20 @@ const emojipedia = [
 		meaning:
 			"A pair of eyes, glancing slightly to the left on most platforms. The Google version of this emoji previously showed only a single eye, despite the name of this character being eyes (plural).",
 	},
+	{
+		id: 9,
+		emoji: "🙃",
+		name: "Upside-Down Face",
+		meaning:
+			"Commonly used to convey irony, sarcasm, joking, or a sense of goofiness or silliness."
+	},
+	{
+		id: 10,
+		emoji: "🫠",
+		name: "Melting Face",
+		meaning:
+			"The eyes and mouth slip down the face, yet still maintain a distorted smile. This quality lends this emoji to sarcasm."
+	}
 ];
 
 export default emojipedia;
